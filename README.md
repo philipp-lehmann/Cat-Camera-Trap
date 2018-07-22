@@ -6,6 +6,7 @@ All images taken are automatically saved within a folder (named 'data') in the a
 Created with [Processing](https://www.processing.org) by Casey Reas and Ben Fry and a motion detection method discussed [here](https://forum.processing.org/two/discussion/4507/motion-detection).
 
 
-![Captured](/images/capture-23.png)
+![Captured](/images/capture-23.jpg)<br>
+
 No garantees, have fun.
 
