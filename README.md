@@ -8,5 +8,6 @@ Created with [Processing](https://www.processing.org) by Casey Reas and Ben Fry 
 
 ![Captured](/images/capture-23.jpg)<br>
 
-No garantees, have fun.
+No guarantees.<br>
+Have fun!
 
